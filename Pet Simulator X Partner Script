@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/h52mWxtA", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PsxHacker21/Pet-Simulator-X-Partner-Script/main/Pet%20Simulator%20X%20Partner%20Script", true))()
